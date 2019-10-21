@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity
 
     private void setUIRef()
     {
+        //commit 2
         mRoundCornerLayout = findViewById(R.id.myRoundCornerLayout);
 
         SeekBar seekBar = findViewById(R.id.seekBar1);
